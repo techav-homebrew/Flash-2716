@@ -4360,7 +4360,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "37753613-9771-42db-823a-b8e1262319e4")
-		(property "Reference" "J2"
+		(property "Reference" "J4"
 			(at 208.788 50.8578 0)
 			(effects
 				(font
@@ -4445,7 +4445,7 @@
 		(instances
 			(project "Flash-2716"
 				(path "/4f4afbba-2cb7-42f3-8560-8215f94c8e1f"
-					(reference "J2")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -5503,7 +5503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9295b3ff-e4af-4d22-9340-ce0a074929b2")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 43.18 36.83 0)
 			(do_not_autoplace yes)
 			(effects
@@ -5625,7 +5625,7 @@
 		(instances
 			(project "Flash-2716"
 				(path "/4f4afbba-2cb7-42f3-8560-8215f94c8e1f"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -5641,7 +5641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98cf2a4c-f2c8-493f-96d4-1f8ee2c4b5bc")
-		(property "Reference" "J4"
+		(property "Reference" "J3"
 			(at 43.18 100.33 0)
 			(do_not_autoplace yes)
 			(effects
@@ -5763,7 +5763,7 @@
 		(instances
 			(project "Flash-2716"
 				(path "/4f4afbba-2cb7-42f3-8560-8215f94c8e1f"
-					(reference "J4")
+					(reference "J3")
 					(unit 1)
 				)
 			)
